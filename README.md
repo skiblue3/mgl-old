@@ -17,4 +17,4 @@ A responsive React-based site representing MyGameList
 - Hosted in Vercel.
 
 ## Link:
-- [MyGameList](https://mygamelist-site.vercel.app/)
+- [MyGameList](https://mygamelist.vercel.app/)
